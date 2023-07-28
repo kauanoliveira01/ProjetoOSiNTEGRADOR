@@ -1,7 +1,7 @@
 ![MIT (2)](https://github.com/kauanoliveira01/ProjetoOSiNTEGRADOR/assets/95319629/84138914-d2e8-4687-a412-5545197c83d3)
 
 # ProjetoOSiNTEGRADOR
-NTEGRADOR
+
 Moto Peças e Oficina
 
 Projeto de oficina de motonetas com desenvolvimento em JAVA no Eclipse vinculado com o MySQL.
